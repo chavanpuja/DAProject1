@@ -15,7 +15,6 @@ lets check you having chances of stroke or not!
    - To predict the stroke chances i have used Logistic Regression. 
 
 # Webpage eview 
-## Home Page
 
 https://github.com/chavanpuja/DAProject1/assets/114943787/7b7377d5-fc5f-4378-a81c-823c0dd59198
 
